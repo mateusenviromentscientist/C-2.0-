@@ -1,0 +1,11 @@
+C:\Windows\system32\Editor\bin\Debug\netcoreapp3.1\Editor.exe
+C:\Windows\system32\Editor\bin\Debug\netcoreapp3.1\Editor.deps.json
+C:\Windows\system32\Editor\bin\Debug\netcoreapp3.1\Editor.runtimeconfig.json
+C:\Windows\system32\Editor\bin\Debug\netcoreapp3.1\Editor.runtimeconfig.dev.json
+C:\Windows\system32\Editor\bin\Debug\netcoreapp3.1\Editor.dll
+C:\Windows\system32\Editor\bin\Debug\netcoreapp3.1\Editor.pdb
+C:\Windows\system32\Editor\obj\Debug\netcoreapp3.1\Editor.csprojAssemblyReference.cache
+C:\Windows\system32\Editor\obj\Debug\netcoreapp3.1\Editor.AssemblyInfoInputs.cache
+C:\Windows\system32\Editor\obj\Debug\netcoreapp3.1\Editor.AssemblyInfo.cs
+C:\Windows\system32\Editor\obj\Debug\netcoreapp3.1\Editor.dll
+C:\Windows\system32\Editor\obj\Debug\netcoreapp3.1\Editor.pdb
